@@ -1,0 +1,3 @@
+telethon
+todus-client==3.0.0
+httpx
